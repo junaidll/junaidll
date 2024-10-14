@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./header-image.png)
 <h1 align="center">Hi 👋, I'm Mohd Junaid Khan</h1>
 <h3 align="center">I'm a Developer and Designer rooted in New Delhi, deeply dedicated to fusing technology and design to craft compelling digital journeys.</h3>
 
